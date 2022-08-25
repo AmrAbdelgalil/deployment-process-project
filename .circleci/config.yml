@@ -59,7 +59,8 @@ jobs:
       - eb/setup
       - aws-cli/setup
       - checkout
-            - run:
+
+      - run:
           name: Initializate eb application
           command: |
             npm run eb:init
