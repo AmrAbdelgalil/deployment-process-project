@@ -1,5 +1,9 @@
 # Hosting a Full-Stack Application
 
+[aws_diagram](./documentation/aws architecture diagram.png)
+
+[pipeline_diagram](./documentation/pipeline.png)
+
 # Udagram
 
 The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
