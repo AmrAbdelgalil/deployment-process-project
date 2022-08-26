@@ -111,10 +111,6 @@ jobs:
           command: |
             npm run build
       - run:
-          name: Running the project test
-          command: |
-            npm run test
-      - run:
           name: Initializate eb application
           command: |
             npm run eb:init
