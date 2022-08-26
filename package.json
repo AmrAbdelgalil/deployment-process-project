@@ -5,6 +5,7 @@
   "scripts": {
     "install": "npm run frontend:install && npm run api:install",
     "build": "npm run frontend:build && npm run api:build",
+    "test": "npm run frontend:test",
     "frontend:install": "cd udagram/udagram-frontend && npm install -f",
     "frontend:start": "cd udagram/udagram-frontend && npm run start",
     "frontend:build": "cd udagram/udagram-frontend && npm run build",
