@@ -1,8 +1,8 @@
 # Hosting a Full-Stack Application
 
-[](./documentation/aws_architecture_diagram.png)
+![aws_diagram](./documentation/aws_architecture_diagram.png)
 
-[](./documentation/pipeline.png)
+![circleCI_pipeline](./documentation/pipeline.png)
 
 # Udagram
 
