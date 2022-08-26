@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "16.0.0"
+    "node": "16.15.1"
   },
   "scripts": {
     "install": "npm run frontend:install && npm run api:install",
