@@ -60,7 +60,7 @@ jobs:
       - aws-cli/setup
       - checkout
 
-            - run:
+      - run:
           name: Install API Dependencies
           command: |
             echo "TODO: Install dependencies in the the backend API"
