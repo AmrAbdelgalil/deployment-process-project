@@ -1,14 +1,14 @@
 # Udagram Application:
 
-    The application is consisting of two main components:
+- The application is consisting of two main components:
 
-    a. Udagram-api:
-         Using `Postgres` Database hosted on `aws RDS service`.
+  a. Udagram-api:
+  Using Postgres Database hosted on aws RDS service.
 
-    b. Udagram-frontend (An Ionic project):
-        Built with `Angular` framework and hosted on `aws S3 Bucket` called `amr-udagram`.
+  b. Udagram-frontend (An Ionic project):
+  Built with Angular framework and hosted on aws S3 Bucket called amr-udagram.
 
-    We use `Node.js` version v16.15.1 and `NPM` version v8.3.0.
+- We use Node.js version v16.15.1 and NPM version v8.3.0.
 
 ## Dependencies:
 
